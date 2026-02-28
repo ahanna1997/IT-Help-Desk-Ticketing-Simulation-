@@ -55,7 +55,8 @@ So on this page you will fill out the incident new record and we will go though 
 
 # Now let's Resolve some tickets (Documenting troubleshooting steps, findings, resolutions, and escalation paths following ITIL standards.)
 
-Ticket 1:Password Reset Request
+
+Ticket 1: Password Reset Request
 
 Process and workflow
 
