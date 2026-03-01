@@ -59,12 +59,12 @@ So on this page you will fill out the incident new record and we will go though 
 Ticket 1: Password Reset Request
 
 Process and workflow
-
+First thing first 
 1️⃣ Intake & Identity Verification
 
-Open incident in ServiceNow.
+First thing first  lets open incident in ServiceNow.
 
-Verify user identity (Employee ID, Manager verification, or MFA confirmation).
+Then verify user identity (Employee ID, Manager verification, or MFA confirmation).
 
 Confirm username and domain.
 
